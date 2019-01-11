@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "test-atom-plugin:toggle"
+    "atom-workspace": "test-atom-plugin:fetch"
   },
   "repository": "https://github.com/atom/test-atom-plugin",
   "license": "MIT",
