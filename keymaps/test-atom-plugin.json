@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "test-atom-plugin:toggle"
+    "ctrl-alt-o": "test-atom-plugin:fetch"
   }
 }

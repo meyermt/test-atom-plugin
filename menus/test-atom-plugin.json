@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle test-atom-plugin",
-        "command": "test-atom-plugin:toggle"
+        "label": "Fetch test-atom-plugin",
+        "command": "test-atom-plugin:fetch"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "test-atom-plugin",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "test-atom-plugin:toggle"
+              "label": "Fetch",
+              "command": "test-atom-plugin:fetch"
             }
           ]
         }
